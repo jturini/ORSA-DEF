@@ -30,6 +30,7 @@ header{
 .textinho{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
+    color: black;
 }
 .saibamais{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -37,4 +38,7 @@ header{
 }
 .abnt{
     height: 280px;
+}
+.facebook{
+    height: 35px;
 }
